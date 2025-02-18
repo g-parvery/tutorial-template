@@ -1,26 +1,21 @@
-Welcome to Lumache's documentation!
+SETP-Coursework-1 documentation!
 ===================================
 
 Learning App
 ------------
 
+StudentID, GitHubID, Name:
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+- 2247067, 118484323, Gabriel
+- 2235538, 183316325, Yiwen
+- 2238973, 80726459, Edison
+- 2247285, 90598157, Ashwin
+- 2214860, 115164360, Connor
+- 2248415, 184390623, Feranmi
+- 2251583, 187626583, Faisal
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
 
 Contents
 --------
 
-.. toctree::
 
-   usage
-   api
